@@ -1,3 +1,4 @@
+#In this code, I've created a system to sell seats at a stadium.
 import sys
 ackapiyi = sys.argv[1]
 output = []
