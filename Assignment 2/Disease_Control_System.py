@@ -1,3 +1,4 @@
+#A program which is able to classify patient datas and calculate some probabilities.
 import os
 
 if os.path.exists("doctors_aid_outputs.txt"):
